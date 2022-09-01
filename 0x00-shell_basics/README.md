@@ -1,1 +1,0 @@
-read for directory
